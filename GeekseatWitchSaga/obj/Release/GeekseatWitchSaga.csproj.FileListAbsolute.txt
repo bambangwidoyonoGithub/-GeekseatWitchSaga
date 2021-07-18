@@ -1,0 +1,9 @@
+C:\MyDATA\Kerja\GeekseatWitchSaga\GeekseatWitchSaga\GeekseatWitchSaga\bin\Release\GeekseatWitchSaga.exe.config
+C:\MyDATA\Kerja\GeekseatWitchSaga\GeekseatWitchSaga\GeekseatWitchSaga\bin\Release\GeekseatWitchSaga.exe
+C:\MyDATA\Kerja\GeekseatWitchSaga\GeekseatWitchSaga\GeekseatWitchSaga\bin\Release\GeekseatWitchSaga.pdb
+C:\MyDATA\Kerja\GeekseatWitchSaga\GeekseatWitchSaga\GeekseatWitchSaga\obj\Release\GeekseatWitchSaga.DispelTheWitch.resources
+C:\MyDATA\Kerja\GeekseatWitchSaga\GeekseatWitchSaga\GeekseatWitchSaga\obj\Release\GeekseatWitchSaga.Properties.Resources.resources
+C:\MyDATA\Kerja\GeekseatWitchSaga\GeekseatWitchSaga\GeekseatWitchSaga\obj\Release\GeekseatWitchSaga.csproj.GenerateResource.cache
+C:\MyDATA\Kerja\GeekseatWitchSaga\GeekseatWitchSaga\GeekseatWitchSaga\obj\Release\GeekseatWitchSaga.csproj.CoreCompileInputs.cache
+C:\MyDATA\Kerja\GeekseatWitchSaga\GeekseatWitchSaga\GeekseatWitchSaga\obj\Release\GeekseatWitchSaga.exe
+C:\MyDATA\Kerja\GeekseatWitchSaga\GeekseatWitchSaga\GeekseatWitchSaga\obj\Release\GeekseatWitchSaga.pdb
